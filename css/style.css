@@ -264,6 +264,9 @@ body {
 }
 
 @media screen and (max-width: 1700px) {
+    .itemsContainer {
+        width: 80%;
+    }
     .icon {
         top: 1045px;
     }
