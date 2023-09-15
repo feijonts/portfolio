@@ -401,7 +401,7 @@ body {
     margin: 0;
     padding: 0;
     width: 100%;
-    background: black;
+    background-color: rgb(17, 17, 17);;
     height: 75vh;
 }
 
@@ -761,7 +761,7 @@ group>.btn:not(:last-child):not(.dropdown-toggle) {
 #contato {
     width: 100vw;
     height: 50vh;
-    background-color: black;
+    background-color: rgb(17, 17, 17);;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -803,7 +803,7 @@ group>.btn:not(:last-child):not(.dropdown-toggle) {
 
 .footer {
     height: 10vh;
-    background-color: black;
+    background-color: rgb(17, 17, 17);;
     padding: 30px 0px 20px 50px;
 }
 
