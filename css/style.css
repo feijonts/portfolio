@@ -25,7 +25,7 @@ body {
 }
 
 #contatoBtn {
-    background: black;
+    background-color: black;
     padding: 12px 26px;
     font-size: 14px;
     font-weight: 500;
@@ -224,7 +224,6 @@ body {
 #servicos {
     margin: 0;
     padding: 0;
-    width: 100%;
 }
 
 .serviceText {
@@ -635,9 +634,8 @@ group>.btn:not(:last-child):not(.dropdown-toggle) {
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 100vw;
     height: 100vh;
-    margin-top: 100px;
+    padding-top: 100px;
 }
 
 .sobreText {
