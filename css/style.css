@@ -449,6 +449,7 @@ body {
     border-radius: 0.25rem;
     margin-bottom: 1.5rem!important;
     margin-right: 3rem;
+    transition: 0.3s;
 }
 
 .card-img-top {
@@ -578,7 +579,7 @@ group>.btn:not(:last-child):not(.dropdown-toggle) {
 }
 
 .projectItem:hover {
-    border: 1px solid #161616;
+    border: 1px solid #1c1c1c;
 }
 
 @media screen and (max-width: 1700px) {
