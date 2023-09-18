@@ -434,8 +434,6 @@ body {
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
-    margin-right: -15px;
-    margin-left: -15px;
 }
 
 .projectItem {
