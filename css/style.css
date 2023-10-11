@@ -224,6 +224,7 @@ body {
 #servicos {
     margin: 0;
     padding: 0;
+    height: fit-content;
 }
 
 .serviceText {
@@ -263,7 +264,8 @@ body {
     justify-content: space-evenly;
     flex-direction: row;
     width: 60vw;
-    height: 60vh;
+    height: fit-content;
+    padding-bottom: 75px;
 }
 
 .item {
@@ -342,7 +344,7 @@ body {
     }
     .itemsContainer {
         width: 100vw;
-        height: 50vh;
+        height: fit-content;
     }
     .icon {
         top: 1200px;
@@ -359,12 +361,12 @@ body {
 @media screen and (max-width: 425px) {
     #servicos {
         width: 100vw;
-        height: 200vh;
         text-align: center;
+        height: fit-content;
     }
     .services {
         width: 100vw;
-        height: 60vh;
+        height: fit-content;
     }
     .itemsContainer {
         display: flex;
